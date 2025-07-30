@@ -1,0 +1,2 @@
+# Gateway-Adaptador-de-Red-con-Fragmentaci-n-Aleatoria-Din-mica-de-Flujo-de-Datos-by-LAEV-
+Adaptador de red universal que fragmenta automáticamente y de forma aleatoria el flujo de datos entrante y saliente, impidiendo la reconstrucción por atacantes. Su arquitectura única aumenta la seguridad al bloquear intrusiones sin respuesta visible, compatible con infraestructuras cloud, on-premise e híbridas.
